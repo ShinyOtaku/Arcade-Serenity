@@ -1,5 +1,6 @@
 frontend-nanodegree-arcade-game
 ===============================
+click on index.html or visit my GitHub page (http://<username>.github.io/<repository> - <a href="http://shinyotaku.github.io/Arcade-Serenity/"> Click HERE</a>) and enjoy the app
 
 Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
 
@@ -11,7 +12,7 @@ When the game first starts, you will be presented with the character selection s
 
 Playing the Game
 ================
-When the game starts, bugs are marching across the screen. Your job, as our plucky hero, is to cross the sea of bugs and get to the pond. Once you reach the pond, you find yourself back in the grass.
+When the game starts, bugs are marching across the screen. Your job, as our Serenity hero, is to cross the sea of bugs and get to the river. Once you reach the river, you find yourself back in the grass.
 
 Once you have crossed the road once, items start appearing in the road, Gems, Hearts and Keys. Collect these items and you will be reward with points.
 
