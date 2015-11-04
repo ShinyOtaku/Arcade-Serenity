@@ -1,6 +1,6 @@
 frontend-nanodegree-arcade-game
 ===============================
-click on index.html or visit my GitHub page (http://<username>.github.io/<repository> - <a href="http://shinyotaku.github.io/Arcade-Serenity/"> Click HERE</a>) and enjoy the app
+Thank you for visiting my repository. <a href="http://shinyotaku.github.io/Arcade-Serenity/">Click HERE</a> to be directed to play the Serenity Arcade Game. or visit my GitHub page and enjoy the app
 
 Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
 
